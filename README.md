@@ -1,4 +1,4 @@
-## 📊 Logistics Dashboard – Prozo
+## 📊 Logistics Dashboard 
 
 This dashboard tracks key logistics KPIs:
 - Order lifecycle
